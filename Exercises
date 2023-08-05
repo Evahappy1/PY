@@ -1,0 +1,8 @@
+# 1. Write a program in python language that takes a value name and display the name with a welcome message.
+# 2. write a program in python that asks the user to enter two numbers a and b and display their sum: a + b
+# 3. write a program in python that asks the user to enter two numbers a and b and display their maximum
+# 4. write a python program to display the current date and time.
+# sample output:
+# current date and time
+# 2014-07-05 14:34:14
+# 5.  write a python program that accepts the user first and  last name and prints them in reverse order with a space between them
